@@ -1,0 +1,1 @@
+# TesteAutomatizadoLojaVirtual.2
